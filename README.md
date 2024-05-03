@@ -9,5 +9,5 @@ npm i -g @vue/cli-init
 ```
 
 ``` bash
-vue init mojtabaAPK/vue
+vue init mojtabaAPK/vue project-name
 ```
