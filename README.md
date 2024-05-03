@@ -1,7 +1,13 @@
 simple starter project vuejs tailwindcss daisyui
 
-> npm i -g @vue/cli
+``` bash
+npm i -g @vue/cli
+```
 
-> npm i -g @vue/cli-init
+``` bash
+npm i -g @vue/cli-init
+```
 
-> vue init mojtabaAPK/vue
+``` bash
+vue init mojtabaAPK/vue
+```
