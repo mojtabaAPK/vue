@@ -1,0 +1,34 @@
+:root{
+    --bbg:blue;
+    color-scheme: light;
+    --main-bg-line-chart-cyan:var(--b2);
+}
+
+[data-theme=light]{
+    
+    --bg-chart:1 0 89.88;
+
+    --bg-axis-left:oklch(var(--bg-chart));
+    --bg-axis-right:oklch(var(--bg-chart));
+
+    --bg-axis-bottom:oklch(var(--bg-chart));
+    --bg-axis-top:oklch(var(--bg-chart));
+
+
+    --main-bg-line-chart-cyan:var(--b2);
+
+}
+
+[data-theme=dracula]{
+
+    
+
+    --bg-chart:0.21 0.02 268;
+
+    --bg-axis-left:oklch(var(--bg-chart));
+    --bg-axis-right:oklch(var(--bg-chart));
+
+    --bg-axis-bottom:oklch(var(--bg-chart));
+    --bg-axis-top:oklch(var(--bg-chart));
+
+}
